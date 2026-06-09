@@ -1,0 +1,72 @@
+📊 Statistical Analysis of Poverty in West Java, 2021
+Overview:
+This project presents a statistical analysis of poverty data across regencies and cities in West Java Province in 2021 using official data published by Statistics Indonesia (BPS). The analysis aims to examine poverty conditions across regions, measure the number of poor residents, calculate poverty proportions, and identify variations in poverty levels through descriptive statistical methods.
+The project provides insights into regional socioeconomic disparities and demonstrates how statistical techniques can be applied to analyze public data effectively.
+
+Objectives:
+Analyze poverty conditions across regencies and cities in West Java.
+Measure the distribution of poor populations among regions.
+Calculate descriptive statistical measures such as mean and variance.
+Examine regional disparities in poverty levels.
+Interpret statistical findings to support socioeconomic understanding.
+
+Dataset:
+Source: Statistics Indonesia (BPS) – West Java Province, 2021
+
+Dataset Variables:
+Regency/City Name
+Population Size
+Poverty Percentage
+Number of Poor Residents (Thousands)
+Poverty Proportion
+Mean Deviation (xi − x̄)
+Squared Deviation (xi − x̄)²
+
+Analysis Performed:
+Data Cleaning and Preparation
+Poverty Population Analysis
+Poverty Percentage Analysis
+Proportion Analysis
+Mean Calculation
+Variance (S²) Calculation
+Poverty Distribution Analysis
+Statistical Interpretation
+Data Visualization using Microsoft Excel
+
+Key Findings:
+The average number of poor residents in West Java in 2021 was 14.61 thousand people.
+The variance (S²) was 120.36, indicating considerable variation among regions.
+Bogor Regency recorded the highest number of poor residents with 39.94 thousand people.
+Banjar City recorded the lowest number of poor residents with 0.95 thousand people.
+The results highlight significant socioeconomic differences across regencies and cities in West Java.
+
+Tools & Methods:
+Microsoft Excel
+Data Cleaning
+Descriptive Statistics
+Mean Analysis
+Variance Analysis (S²)
+Proportion Analysis
+Data Visualization
+
+Skills Demonstrated:
+Data Analysis
+Statistical Analysis
+Descriptive Statistics
+Microsoft Excel
+Data Cleaning
+Data Visualization
+Statistical Interpretation
+Quantitative Analysis
+Socioeconomic Data Analysis
+Public Data Analysis
+
+Statistical Summary:
+Metric	Value
+Average Poverty Population	14.61 Thousand People
+Variance (S²)	120.36
+Highest Poverty Population	Bogor Regency (39.94 Thousand)
+Lowest Poverty Population	Banjar City (0.95 Thousand)
+Data Source	Statistics Indonesia (BPS)
+
+#DataAnalysis #DataAnalytics #Statistics #StatisticalAnalysis #DescriptiveStatistics #MicrosoftExcel #Excel #DataVisualization #PovertyAnalysis #WestJava #IndonesiaData #BPS #OpenData #GovernmentData #SocioeconomicAnalysis #Research #Portfolio #DataScience #QuantitativeAnalysis #PublicData
